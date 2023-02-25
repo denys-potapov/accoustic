@@ -1,4 +1,13 @@
 # accoustic
+
+## Jupiter
+
+setup
+	
+	
+
+
+	jupyter notebook
 Python accoustic tests:
 
 	MPLBACKEND=TkAgg  python3 spectr.py 
