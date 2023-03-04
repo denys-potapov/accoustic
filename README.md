@@ -2,20 +2,16 @@
 
 ## Jupiter
 
-setup
-	
-	
-
-
 	jupyter notebook
-Python accoustic tests:
+
+### Python accoustic tests:
 
 	MPLBACKEND=TkAgg  python3 spectr.py 
-	
-sudo apt-get install python3-pil python3-pil.imagetk
-sudo apt-get install python3-tk
 
+#### Requirements
 
+	sudo apt-get install python3-pil python3-pil.imagetk
+	sudo apt-get install python3-tk
 
 ## Code samples amnd other
 
@@ -37,3 +33,6 @@ https://www.pond5.com/sound-effects/item/688495-military-m109-self-propelled-155
 https://acoustique.ec-lyon.fr/publi/dagallier_jasa19.pdf
 
 
+## Trilateration algorithm for n amount of points
+
+https://gis.stackexchange.com/questions/40660/trilateration-algorithm-for-n-amount-of-points
